@@ -10,9 +10,9 @@
         return {
         }
     },
-    // created() {
-    //   this.$store.dispatch('carregarTarefas');
-    // },
+    created() {
+      this.$store.dispatch('carregarTarefas');
+    },
   }
 </script>
 
