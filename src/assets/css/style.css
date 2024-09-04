@@ -1,0 +1,21 @@
+
+.logo-firjan {
+    width: 150px;
+    height: auto;
+}
+
+footer {
+    height: 60px;
+}
+
+.f-info {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+
+.card-w {
+    width: 18rem;
+}
